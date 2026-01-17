@@ -1,1 +1,1 @@
-# ir
+# infrared counter
